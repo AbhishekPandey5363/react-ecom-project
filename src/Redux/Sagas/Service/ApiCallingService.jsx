@@ -25,6 +25,8 @@ export async function getRecord(collection) {
     } catch (error) {
         console.log(error)
     }
+
+    
 }
 
 export async function updateRecord(collection, payload) {
@@ -47,7 +49,7 @@ export async function updateRecord(collection, payload) {
 //         let response = await fetch(`${process.env.REACT_APP_BACKEND_SERVER}/${collection}/${payload.get('_id')}`, {
 //             method: "PUT",
 //             headers: {
-                
+
 //             },
 //             body:payload
 //         })
