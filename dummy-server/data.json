@@ -141,7 +141,7 @@
       "discount": 70,
       "finalPrice": 768,
       "stock": true,
-      "stockQuantity": 9,
+      "stockQuantity": 8,
       "description": "<p>\n\n<span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel finibus dui, ultrices porttitor arcu. Fusce tempor, ex a commodo imperdiet, ante leo auctor diam, a hendrerit magna nisi eget libero. Morbi porta lorem diam, quis faucibus quam auctor eget.&nbsp;</span></p>\r\n\n\n\n\n\n\r\n<p><br /></p>\r\n\n\n\n\r\n<ul><li><span style=\"font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255); font-weight: bold;\">Praesent placerat facilisis finibus. Donec accumsan risus risus,&nbsp;</span></li><li><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">non rhoncus mauris luctus ultrices. Nullam a pretium est, id tempus erat.&nbsp;</span></li><li><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Etiam mauris velit, luctus nec nulla eget, lacinia porta lorem.&nbsp;</span></li><li><span style=\" font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255)\">Quisque pellentesque velit et elit pellentesque sollicitudin.&nbsp;</span></li><li><span style=\"font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255); font-style: italic; text-decoration-line: underline;\">In commodo commodo mattis.</span></li></ul>",
       "pic": [
         "product/p1.jpg",
@@ -1504,6 +1504,33 @@
           "qty": 1,
           "total": 2475,
           "pic": "product/p32.jpg"
+        }
+      ]
+    },
+    {
+      "id": "86c8",
+      "user": "8570",
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "subtotal": 768,
+      "shipping": 150,
+      "total": 918,
+      "date": "2025-06-08T08:42:08.024Z",
+      "products": [
+        {
+          "id": "698a",
+          "user": "8570",
+          "product": "c7d7",
+          "name": "Male Jeans Slim Fit",
+          "brand": "Mufti",
+          "color": "Black",
+          "size": "36",
+          "price": 768,
+          "stockQuantity": 9,
+          "qty": 1,
+          "total": 768,
+          "pic": "product/p1.jpg"
         }
       ]
     }
